@@ -19,14 +19,14 @@ Africa has significant agricultural potential for coffee production, but how doe
 - **Size:** 4,818 rows × 7 columns
 - **Fields:** Area (Country), Year, Production (tons), Area Harvested (hectares), Production Yield, Continent, Region
 
-## Visualizations 🫘
+## Visualizations
 
-![Production by Country](images/production_by_country.png)
-![Production Trends Over Time](images/production_trends_over_time.png)
-![Yearly Trends by Continent](images/yearly_trends_by_continent.png)
-![Yield by Continent](images/yield_by_continent.png)
-![Production Share by Continent](images/production_share_by_continent.png)
-![Area vs Production by Continent](images/area_vs_production_by_continent.png)
+![Production by Country](production_by_country.png)
+![Production Trends Over Time](production_trends_over_time.png)
+![Yearly Trends by Continent](yearly_trends_by_continent.png)
+![Yield by Continent](yield_by_continent.png)
+![Production Share by Continent](production_share_by_continent.png)
+![Area vs Production by Continent](area_vs_production_by_continent.png)
 
 ## Methodology
 
