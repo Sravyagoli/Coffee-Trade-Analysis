@@ -2,7 +2,7 @@
 
 An independent Excel analytics project examining 60+ years (1961–2022) of global coffee production data to evaluate Africa's competitiveness in the global coffee trade relative to the Americas, Asia, and Oceania.
 
-This project began as a team assignment for **BIA 500-B Business Analytics: Data, Models, and Decisions** at Stevens Institute of Technology (MS Computer Science, Spring 2025). I rebuilt the full analysis independently from the raw dataset — feature engineering, all 6 pivot tables, slicers, and charts — to deepen my own understanding of the methodology and findings.
+This project began as a team assignment for **BIA 500-B Business Analytics: Data, Models, and Decisions** at Stevens Institute of Technology (MS Computer Science, Spring 2025). I rebuilt the full analysis independently from the raw dataset feature engineering, all 6 pivot tables, slicers, and charts to deepen my own understanding of the methodology and findings.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ Africa has significant agricultural potential for coffee production, but how doe
 
 **Key question:** Is Africa's underperformance in global coffee production a land-use problem or a productivity problem?
 
-**Key finding:** Africa holds roughly 18% of global coffee production share, trailing the Americas (~59%) and Asia (~21%). Despite farming a comparable amount of land to Asia, Africa converts far less of it into output — pointing to yield efficiency, not land scarcity, as the binding constraint.
+**Key finding:** Africa holds roughly 18% of global coffee production share, trailing the Americas (~59%) and Asia (~21%). Despite farming a comparable amount of land to Asia, Africa converts far less of it into output pointing to yield efficiency, not land scarcity, as the binding constraint.
 
 ## Dataset
 
@@ -51,9 +51,9 @@ All analysis was performed in Microsoft Excel:
 
 - **Production by country:** Brazil leads with ~117M tons cumulative, nearly 3x Colombia (~40.6M) and ~4x Viet Nam (~31.8M). Uganda (~11.7M) and Ethiopia (~9.4M) lead within Africa but trail the global top producers by a wide margin.
 - **Production trends over time:** Global output has climbed steadily since 1961, roughly doubling from ~4.5M tons to over 11M tons by the 2020s.
-- **Yield by continent:** Asia posts the highest average yield (8,293 kg/ha), followed by the Americas (6,578). Africa (5,626) and Oceania (5,568) trail behind — Africa is not the single lowest performer, but it's well behind the two largest global producers.
+- **Yield by continent:** Asia posts the highest average yield (8,293 kg/ha), followed by the Americas (6,578). Africa (5,626) and Oceania (5,568) trail behind Africa is not the single lowest performer, but it's well behind the two largest global producers.
 - **Production share by continent:** The Americas account for ~59% of global production, Asia ~21%, Africa ~18%, and Oceania ~1%.
-- **Land-use efficiency:** Africa harvests a similar amount of land as Asia (~102K vs. ~105K hectares on average) but produces far less from it (~42K vs. ~94K tons) — confirming the gap is about productivity, not land access.
+- **Land-use efficiency:** Africa harvests a similar amount of land as Asia (~102K vs. ~105K hectares on average) but produces far less from it (~42K vs. ~94K tons) confirming the gap is about productivity, not land access.
 
 ## Repository Contents
 
